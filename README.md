@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://menath-portfolio.vercel.app/" target="_blank">
+    <a href="https://my-portfolio-self-two-33.vercel.app/" target="_blank">
       <img src="/public/assets/preview.png" alt="Menath's Portfolio">
     </a>
   <br />
@@ -128,4 +128,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 - **Feedback:** If you have any feedback or suggestions, I would love to hear from you. Reach out via the contact form on the portfolio or open an issue on GitHub.
 
-- **Live Demo:** [View the live version of my portfolio](https://menath-portfolio.vercel.app/) to see it in action!
+- **Live Demo:** [View the live version of my portfolio]([https://menath-portfolio.vercel.app/](https://my-portfolio-self-two-33.vercel.app/)) to see it in action!
