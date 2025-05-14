@@ -1,6 +1,7 @@
 import "./globals.css";
 import { Poppins } from "next/font/google";
 import Head from "next/head";
+import { SpeedInsights } from "@vercel/speed-insights/next"; // ✅  SpeedInsights
 
 import Header from "@/components/CommonComponents/Header";
 import PageTransition from "@/components/CommonComponents/PageTransition";
@@ -31,6 +32,9 @@ export default function RootLayout({ children }) {
         <Header />
         <PageTransitionEffect />
         <PageTransition>{children}</PageTransition>
+
+        {/* ✅  SpeedInsights  */}
+        <SpeedInsights />
       </body>
     </html>
   );
