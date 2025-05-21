@@ -82,8 +82,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/MenathNDGD/Menath-Portfolio.git
-cd Menath-Portfolio
+git clone https://github.com/Aelzyat0/My-Portfolio
+cd My-Portfolio
 ```
 
 **Installation**
