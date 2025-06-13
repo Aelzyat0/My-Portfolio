@@ -110,39 +110,28 @@ const education = {
     "I am a university student with a Bachelor's degree (with a unique graduation project) in Information Systems from the Higher Institute for Qualitative Studies. I have completed many training courses and certifications in programming, computer science, project management, IT security, learning how to learn, issue resolution skills, and flexibility to work with the latest tools, which enhanced my skills and knowledge in these fields.",
   items: [
     {
-      degree: "Bachelor`s degree Management Information Systems,",
-      university: "Higher Institute for Qualitative Studies",
-      date: "jan 2018 - May 2022",
+      "degree": "Certificate in Programming and Web Development",
+      "university": "The LEAGUE of Amazing Programmers",
+      "date": "2023 - 2024",
+      "grade": "Very good",
+      "activities_and_societies": "Completion of the bronze shield with the solution of 350 questions and obtaining the certificate with a very good grade",
+      "skills": ["Web Design", "Web Development", "Programming", "Digital Marketing", "Data Analytics"]
     },
     {
-      degree: "Professional Skill Program on Agility",
-      university: "SLASSCOM, Colombo",
-      date: "2023 - Oct",
+      "degree": "Diploma of Education, Computer Science",
+      "university": "Harvard University",
+      "date": "May 2024 - Jan 2025",
+      "grade": "Very good",
+      "activities_and_societies": "Completion of the bronze shield with the solution of 350 questions and obtaining the certificate with a very good grade",
+      "skills": ["Computer Hardware", "Computer Network Operations", "C++"]
     },
     {
-      degree: "Agile Project Management",
-      university: "Coursera",
-      date: "2023 - Sep",
-    },
-    {
-      degree: "Foundations of Digital Marketing & E-commerce",
-      university: "Coursera",
-      date: "2023 - Aug",
-    },
-    {
-      degree: "IT Security, Defence Against the Digital Dark",
-      university: "Coursera",
-      date: "2023 - May",
-    },
-    {
-      degree: "The Fundamentals of Digital Marketing",
-      university: "Google Digital Garage",
-      date: "2023 - Apr",
-    },
-    {
-      degree: "Diploma in Information Technology (DIT)",
-      university: "ICBT Campus",
-      date: "2021 - Apr - 2021 Oct",
+      "degree": "Bachelor’s Management Information Systems",
+      "university": "Higher Institute for Qualitative Studies",
+      "date": "Jan 2018 - May 2022",
+      "grade": "Very good",
+      "activities_and_societies": "Engaged in practical projects and coursework focused on information systems management, achieving a high academic standing",
+      "skills": ["Management Information Systems", "Database Management", "Business Analysis"]
     },
   ],
 };
