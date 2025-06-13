@@ -110,28 +110,34 @@ const education = {
     "I am a university student with a Bachelor's degree (with a unique graduation project) in Information Systems from the Higher Institute for Qualitative Studies. I have completed many training courses and certifications in programming, computer science, project management, IT security, learning how to learn, issue resolution skills, and flexibility to work with the latest tools, which enhanced my skills and knowledge in these fields.",
   items: [
     {
-      "degree": "Certificate in Programming and Web Development",
-      "university": "The LEAGUE of Amazing Programmers",
-      "date": "2023 - 2024",
-      "grade": "Very good",
-      "activities_and_societies": "Completion of the bronze shield with the solution of 350 questions and obtaining the certificate with a very good grade",
-      "skills": ["Web Design", "Web Development", "Programming", "Digital Marketing", "Data Analytics"]
-    },
-    {
-      "degree": "Diploma of Education, Computer Science",
-      "university": "Harvard University",
-      "date": "May 2024 - Jan 2025",
-      "grade": "Very good",
-      "activities_and_societies": "Completion of the bronze shield with the solution of 350 questions and obtaining the certificate with a very good grade",
-      "skills": ["Computer Hardware", "Computer Network Operations", "C++"]
-    },
-    {
       "degree": "Bachelor’s Management Information Systems",
       "university": "Higher Institute for Qualitative Studies",
       "date": "Jan 2018 - May 2022",
-      "grade": "Very good",
-      "activities_and_societies": "Engaged in practical projects and coursework focused on information systems management, achieving a high academic standing",
-      "skills": ["Management Information Systems", "Database Management", "Business Analysis"]
+    },
+    {
+      "degree": "Professional Skill Program on Agility",
+      "university": "SLASSCOM, Colombo",
+      "date": "Jan 2023 - Mar 2023",
+    },
+    {
+      "degree": "Agile Project Management",
+      "university": "Coursera",
+      "date": "Jun 2023 - Aug 2023",
+    },
+    {
+      "degree": "Full stack MERN Web Development",
+      "university": "The LEAGUE of Amazing Programmers",
+      "date": "Sep 2023 - Aug 2024",
+    },
+    {
+      "degree": "Diploma , Computer Science",
+      "university": "Harvard University, online",
+      "date": "May 2024 - Jan 2025",
+    },
+    {
+      "degree": "Diploma Linux OS, and Cloud Computing",
+      "university": "Global IT Academy",
+      "date": "Feb 2025 - In Progress",
     },
   ],
 };
