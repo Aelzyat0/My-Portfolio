@@ -77,9 +77,9 @@ const experience = {
     "I have more than three years of experience in technical solutions and web development, I have used different technologies and frameworks to create complete, robust and user-friendly applications that meet the needs of clients, and I have a strong foundation in front-end and back-end development by working in different sectors that help in a good understanding of the business.",
   items: [
     {
-      position: "Software Engineer",
-      company: "Self Employed",
-      date: " Feb 2025 - Present",
+      "position": "Software Solving Tech Challenges",
+      "company": "Self Employed (Founder @ Evolentra)",
+      "date": "Feb 2025 - Present",
     },
     {
       position: "Broadcast Technology Specialist",
@@ -116,7 +116,7 @@ const education = {
     },
     {
       "degree": "Professional Skill Program on Agility",
-      "university": "SLASSCOM, Colombo",
+      "university": "SLASSCOM, Self-connection",
       "date": "Jan 2023 - Mar 2023",
     },
     {
@@ -126,12 +126,12 @@ const education = {
     },
     {
       "degree": "Full stack MERN Web Development",
-      "university": "The LEAGUE of Amazing Programmers",
+      "university": "The LEAGUE Programmers",
       "date": "Sep 2023 - Aug 2024",
     },
     {
       "degree": "Diploma , Computer Science",
-      "university": "Harvard University, online",
+      "university": "Harvard University, remotely",
       "date": "May 2024 - Jan 2025",
     },
     {
